@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = Bellemare
+__author__ = Bellemare2
 
 import pandas as pd
 import numpy as np
